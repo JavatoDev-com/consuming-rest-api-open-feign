@@ -6,6 +6,12 @@ Spring Cloud OpenFeign is capable of communicating with third party REST API and
 
 📄 Original Tutorial [Consuming REST API Using Feign Client in Spring Boot](https://javatodev.com/consuming-rest-api-using-feign-client-in-spring-boot/)
 
+Related Articles 
+
+ - [How to Create a Spring Boot Project](https://javatodev.com/how-to-create-a-spring-boot-project/)
+ - [How to Use Feign Client in Spring Boot](https://javatodev.com/how-to-use-feign-client-in-spring-boot/)
+ - [Exception Handling Spring Boot REST API](https://javatodev.com/exception-handling-spring-boot/)
+
 <h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
 <h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
 
@@ -22,10 +28,6 @@ Spring Cloud OpenFeign is capable of communicating with third party REST API and
 - 📫 How to reach me **author@javatodev.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chinthakadinadasa/](https://www.linkedin.com/in/chinthakadinadasa/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
