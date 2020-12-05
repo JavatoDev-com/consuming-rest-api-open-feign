@@ -1,5 +1,7 @@
 # Consuming REST API Using Feign Client in Spring Boot
 
+![Consuming REST API Using Feign Client in Spring Boot](https://javatodev.com/wp-content/uploads/2020/10/Consuming-REST-API-Using-Feign-Client-in-Spring-Boot-800x450.png)
+
 <p align="left">
 Spring Cloud OpenFeign is capable of communicating with third party REST API and commonly used with Spring Boot. In this tutorial, we are going to explain how we can use feign client to consume third-party REST API with multiple HTTP methods including GET, POST, DELETE, PATCH.
 
